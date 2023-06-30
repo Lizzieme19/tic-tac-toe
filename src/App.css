@@ -1,0 +1,9 @@
+.square{
+  font-weight: bolder;
+  
+  font-size: large;
+}
+
+button.square{
+  padding: 1.5em;
+}
